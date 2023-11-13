@@ -5,7 +5,7 @@ repo: Uptime # The name of this repository
 sites:
   - name: 前端服务器8141
     url: http://8.141.93.89:9999/
-  - name: 数据库服务器4713
+  - name: 数据库服务器4793
     url: http://47.93.253.217:9999/
 
 status-website:
