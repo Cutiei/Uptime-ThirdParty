@@ -3,9 +3,9 @@ owner: Cutiei # Your GitHub organization or username, where this repository live
 repo: Uptime # The name of this repository
 
 sites:
-  - name: 前端服务器
+  - name: 前端服务器8141
     url: http://8.141.93.89:9999/
-  - name: 数据库服务器
+  - name: 数据库服务器4713
     url: http://47.93.253.217:9999/
 
 status-website:
