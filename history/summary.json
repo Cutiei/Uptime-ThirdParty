@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 479,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "time": 486,
+    "timeDay": 506,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -23,38 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/47.93.253.217.ico",
     "slug": "4793",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.46%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
     "time": 493,
     "timeDay": 452,
     "timeWeek": 493,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2023-11-17": 144
-    }
-  },
-  {
-    "name": "testbroken",
-    "url": "http://broken.ccc/",
-    "icon": "https://icons.duckduckgo.com/ip3/broken.ccc.ico",
-    "slug": "testbroken",
-    "status": "down",
-    "uptime": "4.09%",
-    "uptimeDay": "4.09%",
-    "uptimeWeek": "4.09%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "4.09%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-11-17": 0
+      "2023-11-17": 160
     }
   }
 ]
