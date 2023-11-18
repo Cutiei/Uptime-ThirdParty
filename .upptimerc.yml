@@ -9,7 +9,6 @@ sites:
     url: http://47.93.253.217:9999/
   - name: 前端服务器8141:80（nginx）
     url: http://8.141.93.89/
-  - 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
